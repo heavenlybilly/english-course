@@ -621,26 +621,17 @@ Russian subtitles are not the default learning method.
 
 Listening should gradually develop across speed, number of speakers, accent variation, connected speech, sentence complexity, lexical density, predictability, noise and duration. These dimensions should not all increase at once.
 
-Listening material should use three complementary layers.
+Listening material should use two complementary layers.
 
-## Course Audio
+## Curated Authentic Listening
 
-The course may include its own audio files where precise control is useful, especially for:
+Prepared listening lessons should use selected authentic or professionally published recordings rather than course-generated audio files. Suitable material includes learner-oriented recordings with natural voices, films, series, videos, interviews, podcasts, audiobooks and other real spoken English.
 
-- contractions and weak forms;
-- connected speech;
-- distinctions between similar forms;
-- targeted grammar and vocabulary;
-- short dialogues;
-- checkpoints and other essential listening tasks.
+An intensive assignment should identify the exact work, creator or publisher, recording or segment, approximate difficulty, accent where useful and availability of an official transcript or accurate English subtitles. It should include prepared gist, detail, language-noticing and response tasks with answers based on that exact material.
 
-Course audio should include an accurate transcript and answers. Across the course, voices, speed and format should vary. A single uniformly slow synthetic voice is not sufficient as the main model of spoken English.
+A link must be accompanied by a searchable title, creator or publisher and other identifying details so that the material can still be found if the URL changes. When the complete recording is used, state this explicitly; otherwise provide an exact time range or unambiguous start and end cues.
 
-## Authentic Assignments
-
-Films, series, videos, interviews, podcasts and audiobooks should provide substantial exposure to natural speech. An assignment should identify the exact work, episode or segment and give a clear listening purpose.
-
-A link should be accompanied by a searchable title, creator or publisher and other identifying details, so the material can still be found if the URL changes.
+Do not store synthetic or AI-generated audio files in the course. Dictionary audio remains appropriate for checking individual words, and learner-made recordings remain appropriate for speaking and pronunciation self-checks; neither replaces authentic listening input.
 
 ## Extensive Listening
 
@@ -648,7 +639,7 @@ Some listening should be done for meaning or enjoyment without detailed analysis
 
 Music may support exposure, rhythm, pronunciation and occasional language analysis. Because musical delivery and poetic language differ from ordinary speech, songs should not be the main measure of listening comprehension.
 
-Essential listening practice should use course audio where practical or have a suitable alternative if an external source disappears.
+If a prepared external source disappears, provide search information, an official alternate location where known and a separate independent-listening route. Closed questions tied to one unavailable recording should be postponed rather than answered from its transcript alone.
 
 ---
 
@@ -952,9 +943,9 @@ An external assignment should provide:
 - availability of subtitles or transcript;
 - a clear task.
 
-A critical lesson should not become unusable because a single link disappears.
+A critical lesson should not become unusable because a single link disappears. It should provide enough search information to relocate the same official material and, where appropriate, a separate authentic source or independent-listening route that still practices the method.
 
-Course-created audio files may accompany Markdown lessons. Transcripts should remain separate from the first-listening instructions so that the learner does not see them accidentally.
+Listening lessons do not store synthetic or AI-generated audio files. Link to authentic or professionally published recordings at their legitimate source. Use an official transcript or accurate English subtitles after the initial listening tasks; do not reproduce a copyrighted transcript in full merely to make the lesson self-contained.
 
 Course-created material used once normally belongs in its lesson. A shared resource is useful only when several lessons actually use it.
 
@@ -991,8 +982,6 @@ A normal location may look like:
         ├── 02-practice.md
         └── 03-answers.md
 ```
-
-Course-created listening material may add files such as `audio-01.mp3`, `audio-02.mp3` and `transcript.md`.
 
 Markdown is the source format because it is readable and easy to edit. This does not require machine-readable lesson metadata.
 

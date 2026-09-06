@@ -26,7 +26,9 @@ Existing lesson directories:
 - Lesson 006 — `lesson-006-how-to-practise-listening/`
 - Lesson 007 — `lesson-007-writing-clearly/`
 
-Lessons 001–007 follow the current presentation rules. Their tasks and answers use the adopted numbering and heading hierarchy, and their blanks use the stable inline-code format. Lesson 006 contains a complete main lesson, additional practice, answers and two local audio recordings, with sixteen sequential tasks covering gist, details, transcript use, connected speech and independent listening.
+Lessons 001–007 follow the current presentation rules. Their tasks and answers use the adopted numbering and heading hierarchy, and their blanks use the stable inline-code format. Lesson 006 contains a complete main lesson, additional practice and answers built around two authentic VOA Learning English recordings, with sixteen sequential tasks covering gist, details, official transcript use, connected speech and independent listening.
+
+Listening lessons use curated authentic or professionally published external recordings with exact source information and official transcripts or accurate English subtitles. The course does not store generated audio files.
 
 Lesson 008 has not yet been created. No later course lessons have been generated.
 

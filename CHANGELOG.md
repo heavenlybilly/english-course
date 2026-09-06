@@ -2,7 +2,9 @@
 
 ## Unreleased
 
-- Added Lesson 006, How to Practise Listening, with a complete main lesson, additional practice, answers and two local course-audio recordings. Its sixteen tasks establish the sequence from gist and selected details through transcript analysis and connected-speech noticing to a final transcript-free listen, response and independent practice.
+- Replaced the generated-audio approach for Listening with curated authentic or professionally published external recordings. Updated the canonical specification and templates to require exact source, publisher, segment, transcript or subtitle availability and recovery information, and redesigned Lesson 006 around two official VOA Learning English conversations without storing audio files or copied transcripts.
+
+- Added Lesson 006, How to Practise Listening, with a complete main lesson, additional practice and answers. Its sixteen tasks establish the sequence from gist and selected details through official-transcript analysis and connected-speech noticing to a final transcript-free listen, response and independent practice.
 
 - Added Lesson 005, IPA, Pronunciation, Stress and Your First Recording, with a complete main lesson, additional practice and answers. Its sixteen tasks introduce selective IPA use, four sound contrasts, word and contrastive sentence stress, dictionary pronunciation checks and a supported two-version recording process focused on intelligibility.
 
