@@ -22,7 +22,7 @@
 1. **True.**
 2. **True.**
 3. **True.**
-4. **False.** They mention different favorite games; the recording does not say they play Scrabble every Friday.
+4. **Not stated.** Anna says that Scrabble is her favorite, and Marsha says that her family sometimes plays board games on Fridays. The recording does not say that both women play Scrabble every Friday.
 5. **True.**
 6. **False.** Anna teaches children to play the ukulele.
 7. **True.**

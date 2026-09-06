@@ -1,6 +1,6 @@
 # Lesson 007 — Writing Clearly: Missing Words, Capitals and Basic Punctuation
 
-[Stage 0](../README.md) · [Additional practice](02-practice.md) · [Answers](03-answers.md) · [Next lesson](../lesson-008-your-starting-point/01-lesson.md)
+[Previous lesson](../lesson-006-how-to-practise-listening/01-lesson.md) · [Stage 0](../README.md) · [Additional practice](02-practice.md) · [Answers](03-answers.md) · [Next lesson](../lesson-008-your-starting-point/01-lesson.md)
 
 ## Your Goal and Recall
 

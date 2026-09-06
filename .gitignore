@@ -8,6 +8,9 @@
 # Trash
 .trash/
 
+# IDE
+.idea
+
 # OS files
 .DS_Store
 Thumbs.db
