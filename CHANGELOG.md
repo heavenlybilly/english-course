@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Completed Stage 0 with Lesson 008, Your Starting Point. The lesson combines a new reading text, an authentic VOA listening assignment, vocabulary retrieval, dictionary and pronunciation checks, short writing and optional recorded speaking; its nineteen tasks lead to evidence-based review routes without a single diagnostic score.
+
 - Replaced the generated-audio approach for Listening with curated authentic or professionally published external recordings. Updated the canonical specification and templates to require exact source, publisher, segment, transcript or subtitle availability and recovery information, and redesigned Lesson 006 around two official VOA Learning English conversations without storing audio files or copied transcripts.
 
 - Added Lesson 006, How to Practise Listening, with a complete main lesson, additional practice and answers. Its sixteen tasks establish the sequence from gist and selected details through official-transcript analysis and connected-speech noticing to a final transcript-free listen, response and independent practice.

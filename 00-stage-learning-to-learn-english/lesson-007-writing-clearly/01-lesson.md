@@ -1,6 +1,6 @@
 # Lesson 007 — Writing Clearly: Missing Words, Capitals and Basic Punctuation
 
-[Stage 0](../README.md) · [Additional practice](02-practice.md) · [Answers](03-answers.md)
+[Stage 0](../README.md) · [Additional practice](02-practice.md) · [Answers](03-answers.md) · [Next lesson](../lesson-008-your-starting-point/01-lesson.md)
 
 ## Your Goal and Recall
 
@@ -162,4 +162,4 @@ My text:
 
 Сохрани первую и исправленную версии. После другого учебного материала выполни блок B дополнительной практики. Затем вернись к delayed recall в `02-practice.md` урока 003.
 
-[Вернуться к обзору Stage 0](../README.md).
+[Continue to Lesson 008](../lesson-008-your-starting-point/01-lesson.md).

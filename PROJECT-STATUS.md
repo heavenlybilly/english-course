@@ -25,17 +25,18 @@ Existing lesson directories:
 - Lesson 005 — `lesson-005-ipa-pronunciation-stress-and-your-first-recording/`
 - Lesson 006 — `lesson-006-how-to-practise-listening/`
 - Lesson 007 — `lesson-007-writing-clearly/`
+- Lesson 008 — `lesson-008-your-starting-point/`
 
-Lessons 001–007 follow the current presentation rules. Their tasks and answers use the adopted numbering and heading hierarchy, and their blanks use the stable inline-code format. Lesson 006 contains a complete main lesson, additional practice and answers built around two authentic VOA Learning English recordings, with sixteen sequential tasks covering gist, details, official transcript use, connected speech and independent listening.
+Stage 0 is complete. Lessons 001–008 follow the current presentation rules. Their tasks and answers use the adopted numbering and heading hierarchy, and their blanks use the stable inline-code format. Lesson 008 provides a cumulative method review and initial diagnostic across reading, vocabulary, dictionary use, listening, pronunciation, writing and optional recorded speaking, with evidence-based review routes rather than one total score.
 
 Listening lessons use curated authentic or professionally published external recordings with exact source information and official transcripts or accurate English subtitles. The course does not store generated audio files.
 
-Lesson 008 has not yet been created. No later course lessons have been generated.
+No later course lessons have been generated.
 
 ## Current Working Direction
 
 The specification review is complete for the decisions currently recorded, but it may be reopened whenever the learner wants to examine a rule more closely.
 
-The next sensible implementation step is to discuss and create Lesson 008 — Your Starting Point — as the Stage 0 review and initial diagnostic.
+The next sensible implementation step is to review Stage 0 as a complete module, then discuss and create Lesson 009 — Subject + Verb + Object — at the beginning of Stage 1.
 
 Do not begin bulk lesson generation without explicit approval. When reviewing a new block or pedagogical decision, first explain its meaning and proposed solution in Russian; record the accepted final version in English where it belongs in the course.
