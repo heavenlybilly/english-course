@@ -1,63 +1,97 @@
 # Lesson 003 — Answers
 
-[Lesson](01-lesson.md) · [Additional practice](02-practice.md)
+[Main lesson](01-lesson.md) · [Additional practice](02-practice.md)
 
-## Lesson
+## Task 1. Recall the reading strategy
 
-- **1A-1:** Understanding of the fault and interest in helping repair it.
-- **1A-2:** Any two: ignore, guess, check later, look up now.
-- **1A-3:** No; some words are only needed for recognition or the current text.
-- **2A-1:** The way the learner works with language.
+1. Understanding of the fault and interest in helping repair the lamp.
+2. Any two: ignore, guess, check later, look up now.
+3. No. Some words are only needed for understanding the current text.
 
-- **4A-1:** make.
-- **4A-2:** to.
-- **4A-3:** it.
-- **4A-4:** down.
-- **4A-5:** out.
-- **4A-6:** of.
-- **4A-7:** made.
-- **4A-8:** up.
+## Task 2. Notice the change
 
-- **4B-1:** Suggested: Make time for English.
-- **4B-2:** Suggested: Pay attention to the preposition.
-- **4B-3:** Suggested: Look it up.
-- **4B-4:** Suggested: Write it down.
-- **4B-5:** Suggested: Try it out.
-- **4B-6:** Suggested: Keep track of your progress.
-- **4B-7:** Suggested: I made a mistake.
-- **4B-8:** Suggested: Don't give up.
+The way the learner works with language changed.
 
-- **4C-1:** Suggested: look it up and write it down. You might first pay attention to its context and pattern. Accept another combination if the explanation fits the situation.
-- **4C-2:** Suggested: “You made a mistake, but don't give up.” The friend could also try out a different way of practising.
+## Task 3. Complete the sentences
 
-- **5A-1:** Open. Check four expressions, correct patterns, understandable and realistic plan. Model: “I will make time for English after breakfast. I will pay attention to useful phrases. I will write them down with examples. On Sunday, I will try them out in a short message.” Other plans are valid.
-- **5A-2:** Suggested note: “pay attention to something — обращать внимание на — attention + to — I pay attention to the verbs in a story.” It preserves the preposition and a usable context.
-- **6A-1:** I made a mistake.
-- **6A-2:** Look it up.
-- **6A-3:** to.
-- **6A-4:** of.
-- **6A-5:** Open. Correct pattern make time for + noun/-ing, clear meaning. Example: “I make time for walking every evening.”
-- **6A-6:** Open. it must go between try and out. Example: “This recipe looks easy, so I'll try it out.”
+1. `make`.
+2. `to`.
+3. `it`.
+4. `down`.
+5. `out`.
+6. `of`.
+7. `made`.
+8. `up`.
 
-## Additional practice
+## Task 4. Recall each expression from its meaning
 
-- **P1A-1:** I pay attention to the examples.
-- **P1A-2:** I keep track of my mistakes.
-- **P1A-3:** Please write it down.
-- **P1A-4:** We tried it out.
-- **P1A-5:** I make time for reading.
-- **P1A-6:** I made a mistake, but I didn't give up.
-- **P1A-7:** Look up this word in a dictionary. / Look this word up in a dictionary.
-- **P1A-8:** Write down this phrase. / Write this phrase down.
+1. `Make time for English.`
+2. `Pay attention to the preposition.`
+3. `Look it up.`
+4. `Write it down.`
+5. `Try it out.`
+6. `Keep track of it.`
+7. `I made a mistake.`
+8. `Don't give up.`
 
-- **P2A-1:** make time for something.
-- **P2A-2:** pay attention to something.
-- **P2A-3:** look something up.
-- **P2A-4:** write something down.
-- **P2A-5:** try something out.
-- **P2A-6:** keep track of something.
-- **P2A-7:** make a mistake.
-- **P2A-8:** give up.
+Small changes are possible when the meaning and pattern remain correct.
 
-- **P3A-1:** Open. Verify four previously unused units, correct patterns and meaningful context. Use the lesson examples for patterns, not as text to copy.
-- **P3A-2:** Open. Criteria: supportive message, three natural units, clear advice, coherent flow. Model: “Learning to draw takes time. You don't have to make every picture perfect. Try out one small exercise each day and keep track of what becomes easier. When you make a mistake, look at it carefully and change one thing in your next picture. You can also ask someone for advice. A difficult week doesn't mean you aren't learning.” Alternatives are valid.
+## Task 5. Decide what fits
+
+1. **Suggested answer:** look it up and write it down. You might first pay attention to its context and pattern. Another combination is possible if the explanation fits the situation.
+2. **Suggested answer:** `You made a mistake, but don't give up.` The friend could also try out a different way of practicing.
+
+## Task 6. Create your own examples
+
+1. Check for four expressions, correct patterns and a realistic, understandable plan.
+
+   **Possible response:** “I will make time for English after breakfast. I will pay attention to useful phrases. I will write them down with examples. On Sunday, I will try them out in a short message.”
+
+2. Check for the complete expression, relevant meaning, pattern and an original example. The explanation should mention that the complete note shows how to build a sentence, while a translation alone does not.
+
+## Task 7. Check meaning and form
+
+1. `I made a mistake.`
+2. `Look it up.`
+3. `to`: `Pay attention to word order.`
+4. `of`: `Keep track of your progress.`
+5. Open. Check the pattern `make time for something`. Example: `I make time for reading before bed.`
+6. Open. The pronoun must go between the verb and particle. Example: `This method looks useful, so I want to try it out.`
+
+## Task 8. Correct and translate
+
+1. `I pay attention to the examples.`
+2. `I keep track of my mistakes.`
+3. `Please write it down.`
+4. `We tried it out.`
+5. `I make time for reading.`
+6. `I made a mistake, but I didn't give up.`
+7. `Look this word up in a dictionary.` / `Look up this word in a dictionary.`
+8. `Write this phrase down.` / `Write down this phrase.`
+
+## Task 9. Restore the expressions later
+
+1. `make time for something`.
+2. `pay attention to something`.
+3. `look something up`.
+4. `write something down`.
+5. `try something out`.
+6. `keep track of something`.
+7. `make a mistake`.
+8. `give up`.
+
+For item 8, the task gives the meaning “stop trying”, so the required expression is `give up`. It is not an instruction to stop.
+
+## Task 10. Use the remaining expressions
+
+Check that four previously unused expressions appear with the correct patterns and that every sentence describes a clear, plausible situation. Different answers are expected.
+
+## Task 11. Encourage a friend
+
+Check for an understandable message, suitable advice and three expressions used naturally.
+
+**Possible response**
+
+> Learning something new can be frustrating, especially when you make mistakes. Please don't give up after one difficult week. Try out a different way of practicing and choose one small goal. You could make time for it before breakfast or after work. Progress may feel slow, but every attempt teaches you something. Be patient with yourself and keep going.
+
+Other coherent messages are valid.

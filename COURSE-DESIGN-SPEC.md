@@ -39,7 +39,7 @@ The learner is not assumed to be a complete beginner. They should normally be ab
 - understand common words and simple sentences;
 - extract at least the general meaning from a short accessible text;
 - express basic personal information in simple English;
-- recognise some common grammar even when productive control is unstable.
+- recognize some common grammar even when productive control is unstable.
 
 The course does not depend on a precise starting CEFR label. Reading, listening, grammar, vocabulary, writing and speaking may be at different levels.
 
@@ -134,7 +134,19 @@ As a broad editorial guide, meaningful learning material may be approximately:
 
 These percentages are not calculated mechanically.
 
-The course should not translate every sentence or every unknown word. English explanations should not be harder than the language they are meant to explain. Organisational guides may remain in Russian.
+The course should not translate every sentence or every unknown word. English explanations should not be harder than the language they are meant to explain. Organizational guides may remain in Russian.
+
+## Default Variety of English
+
+Course-written explanations, instructions, examples, answer keys and audio should use contemporary General American English as the default model. This includes spelling, ordinary vocabulary, common grammatical choices and the main pronunciation reference.
+
+British English should be introduced briefly when a difference is common, likely to cause confusion or important for understanding authentic material. Useful examples include `color/colour`, `apartment/flat`, `on the weekend/at the weekend`, `gotten/got` and notable pronunciation differences. Such notes should normally appear once at the first relevant point or in a reference page, not beside every example.
+
+Standard British forms remain acceptable in open learner responses when they are correct and used consistently, unless a task specifically practices an American–British contrast. Authentic texts and recordings should retain their original variety rather than being rewritten to American English.
+
+Course-created pronunciation models should normally use General American English. Exposure to British and other widely encountered accents should still appear gradually in listening material. The goal is comprehension and intelligibility, not imitation of a single accent.
+
+Variant notes must remain concise and should not interrupt the main learning path when the difference is irrelevant to the lesson goal.
 
 ---
 
@@ -142,7 +154,7 @@ The course should not translate every sentence or every unknown word. English ex
 
 The current Course Map contains 486 numbered lessons across 15 stages, from Stage 0 to Stage 14.
 
-The Course Map is an ordered route and catalogue of material, not a calendar or a requirement to give every lesson the same amount of attention.
+The Course Map is an ordered route and catalog of material, not a calendar or a requirement to give every lesson the same amount of attention.
 
 The number of lessons is not a learning objective. The important requirement is complete, well-ordered coverage with enough practice and review.
 
@@ -178,7 +190,7 @@ A topic may appear naturally before its dedicated systematisation lesson. In tha
 
 ---
 
-# 7. Lesson Organisation
+# 7. Lesson Organization
 
 A normal substantial lesson may use:
 
@@ -217,6 +229,45 @@ A normal lesson may include:
 8. Check and Takeaway
 
 This is a flexible sequence rather than a compulsory set of headings. Sections may be renamed, combined, expanded, reordered or omitted when the lesson type requires it.
+
+## Learner-Facing Presentation
+
+The visual hierarchy must make explanations, source material and tasks easy to distinguish in a plain Markdown reader:
+
+- `##` introduces a major lesson section with a specific, learner-friendly title;
+- `###` introduces a numbered task and states what the learner should do;
+- `####` introduces an embedded piece of learning material.
+
+Material headings must name the actual type or purpose of the content, for example:
+
+- Dialogue;
+- Short Text;
+- Examples;
+- Useful Expressions;
+- Grammar Pattern;
+- Listening Transcript;
+- Pronunciation Model.
+
+Do not use a generic heading such as `Material` when a more informative description is available.
+
+Learner-facing tasks should use simple sequential labels such as `Task 1`, `Task 2` and `Task 3`. Composite production codes such as `2A-1` should not appear in finished lessons. The task heading may add a brief purpose, for example `Task 2. Find the Evidence`.
+
+Numbering should continue through `01-lesson.md` and `02-practice.md` when both files belong to one lesson. `03-answers.md` must repeat the task titles, numbers and item order. In the answer file, each task normally uses an `##` heading so the required answer section is easy to find.
+
+The language of headings and instructions should be internally consistent. Russian is appropriate for early explanations and instructions when it materially improves comprehension. English should be retained for the language being studied, examples and established course terms. Do not alternate languages without a clear teaching reason.
+
+## Fill-in-the-Blank Formatting
+
+Every visible blank in a sentence or prompt must use exactly five underscore characters inside inline code formatting:
+
+```markdown
+Write it `_____`.
+I'll look `_____` up.
+```
+
+Punctuation belongs outside the inline-code span. The blank should keep the same visual length regardless of the expected answer, so it does not reveal the number of letters or words.
+
+Do not use raw underscore sequences such as `___` outside inline code. Markdown readers may interpret them as emphasis or hide them, especially near the end of a sentence. Escaped underscore sequences are also discouraged because they make the source file harder to read and edit.
 
 Practice may contain focused exercises, contrasts, mixed practice, RU → EN, EN → EN, error correction, reading, listening, writing or speaking as appropriate.
 
@@ -323,7 +374,7 @@ Important new grammar should normally include:
 - core meaning;
 - form;
 - a useful mental model;
-- contrasts with neighbouring structures;
+- contrasts with neighboring structures;
 - common mistakes;
 - varied natural examples;
 - focused and mixed practice;
@@ -434,7 +485,7 @@ The course should repeatedly show:
 - whether a phrasal verb is separable;
 - how meaning changes across contexts.
 
-Dedicated lessons later organise and deepen material that may already have appeared in texts and exercises.
+Dedicated lessons later organize and deepen material that may already have appeared in texts and exercises.
 
 ---
 
@@ -505,18 +556,27 @@ Obvious answers do not need long explanations. Confusing distinctions and import
 
 Open tasks should receive useful criteria, a checklist, commentary or a model response. A model is an example, not the only correct answer.
 
-Answers should follow the same local numbering and order as the exercises. Global internal IDs are not required.
+Answers should follow the same simple sequential numbering, titles and item order as the tasks. Global or composite internal IDs are not required in learner-facing files.
 
 A simple format is sufficient:
 
-```text
-Exercise 3
+```markdown
+### Task 3. Use the New Pattern
+
 1. ...
 2. ...
 3. ...
 ```
 
-The corresponding section in `03-answers.md` should use the same exercise number and item order.
+The corresponding section in `03-answers.md` should use the same title, task number and item order:
+
+```markdown
+## Task 3. Use the New Pattern
+
+1. ...
+2. ...
+3. ...
+```
 
 The answer material must be complete enough for independent study without AI or a teacher.
 
@@ -553,7 +613,7 @@ A normal listening sequence is:
 2. identify the main idea;
 3. listen again for detail;
 4. inspect the English transcript or subtitles;
-5. analyse selected language and connected speech;
+5. analyze selected language and connected speech;
 6. listen again without the transcript;
 7. respond to the content.
 
@@ -614,7 +674,7 @@ In the early stages, optional speaking aloud, repetition after audio and short s
 
 In the middle stages, lessons should introduce short descriptions, retelling, prepared answers and controlled simulations.
 
-In the later stages, the learner should practise longer monologues, explanation, argument, retelling and simulated interaction. Instructions, models and self-check criteria must support independent work.
+In the later stages, the learner should practice longer monologues, explanation, argument, retelling and simulated interaction. Instructions, models and self-check criteria must support independent work.
 
 Suitable independent activities include:
 
@@ -731,7 +791,7 @@ Important grammar should receive:
 
 - substantial initial examples and practice;
 - early retrieval;
-- contrast with neighbouring structures;
+- contrast with neighboring structures;
 - mixed practice;
 - connected reading or listening;
 - productive use;
@@ -753,7 +813,7 @@ Important contrasts include:
 - say vs tell;
 - borrow vs lend.
 
-The learner must practise choosing rather than only reproducing a named form.
+The learner must practice choosing rather than only reproducing a named form.
 
 ---
 
@@ -927,9 +987,9 @@ A normal location may look like:
 01-stage-sentence-foundations/
 └── 01-01-building-a-sentence/
     └── lesson-009-subject-verb-object/
-        ├── lesson.md
-        ├── practice.md
-        └── answers.md
+        ├── 01-lesson.md
+        ├── 02-practice.md
+        └── 03-answers.md
 ```
 
 Course-created listening material may add files such as `audio-01.mp3`, `audio-02.mp3` and `transcript.md`.
@@ -970,6 +1030,6 @@ Materials should be created and considered in coherent modules so that prerequis
 
 The course is a well-ordered, extensive collection of explanations, examples, texts, exercises, answers and authentic-material assignments.
 
-Its organisation exists to support learning. Its value comes from the material itself: clear teaching, natural English, abundant practice, deliberate repetition and progression toward independent use.
+Its organization exists to support learning. Its value comes from the material itself: clear teaching, natural English, abundant practice, deliberate repetition and progression toward independent use.
 
-The learner should move from understanding rules to recognising patterns, choosing language, using English independently and eventually using English without the course as the primary environment.
+The learner should move from understanding rules to recognizing patterns, choosing language, using English independently and eventually using English without the course as the primary environment.

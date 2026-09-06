@@ -2,6 +2,24 @@
 
 ## Unreleased
 
+- Added Lesson 006, How to Practise Listening, with a complete main lesson, additional practice, answers and two local course-audio recordings. Its sixteen tasks establish the sequence from gist and selected details through transcript analysis and connected-speech noticing to a final transcript-free listen, response and independent practice.
+
+- Added Lesson 005, IPA, Pronunciation, Stress and Your First Recording, with a complete main lesson, additional practice and answers. Its sixteen tasks introduce selective IPA use, four sound contrasts, word and contrastive sentence stress, dictionary pronunciation checks and a supported two-version recording process focused on intelligibility.
+
+- Added Lesson 004, How to Use an English Dictionary, with a complete main lesson, additional practice and answers. Its twelve tasks teach goal-based lookup decisions, contextual sense selection, parts of speech and dictionary labels, grammatical patterns, example-based learning, pronunciation checks and focused vocabulary notes while retrieving material from Lesson 003.
+
+- Reformatted Lesson 007 using the current learner-facing hierarchy and ten sequential tasks across the main and practice files. Rebuilt the answer headings to mirror every task, standardized visible blanks, and preserved the previously reviewed writing content.
+
+- Standardized fill-in-the-blank prompts as five underscores inside inline code, with punctuation outside the code span. Applied the format to Lessons 001–003 and documented it in the canonical specification to ensure reliable rendering across Markdown readers.
+
+- Established contemporary General American English as the default for course-written language and audio. British variants remain acceptable and are noted concisely only when common or pedagogically relevant; authentic material retains its original variety. Applied the policy to Lessons 001–003, templates and learner notation guidance.
+
+- Reformatted Lesson 003 using descriptive sections, specific `####` content headings and eleven sequential learner-facing tasks across the main and practice files. Rebuilt the answer key to mirror every task title and item order while preserving the eight target expressions and delayed review.
+
+- Reformatted Lesson 002 using the adopted learner-facing hierarchy: descriptive `##` sections, specific `####` content headings, eight sequential `###` tasks across the main and practice files, and matching answer sections. Removed the previous composite task codes without changing the lesson's learning content.
+
+- Adopted the readable learner-facing Markdown format demonstrated in Lesson 001. Major sections use `##`, numbered tasks use `###`, and embedded learning content uses `####` with a specific heading such as Dialogue or Short Text. Removed generic Material headings and composite task codes from the canonical specification, templates and learner notation guide.
+
 - Added a numbered learner-facing terminology reference covering the grammatical, lexical, skills-related and pronunciation terms used throughout the course, with Russian explanations and English examples.
 
 - Added a Russian explanation of every stage in the Lesson 001 learning cycle and clarified that the sequence is a flexible model rather than a rigid structure for every task.

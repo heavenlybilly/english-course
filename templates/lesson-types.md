@@ -2,22 +2,24 @@
 
 Типы помогают выбрать последовательность материала. Урок может сочетать несколько навыков.
 
-| Тип | Подходящая последовательность |
-|---|---|
-| Orientation | Цель → демонстрация способа работы → guided attempt → самостоятельная попытка → вывод |
-| Grammar | Контекст → noticing → объяснение → примеры → focused practice → contrast → mixed practice → применение |
-| Vocabulary | Контекст → критерии отбора → значение и полная модель → collocations → примеры → recognition → recall → ситуационный выбор → применение |
-| Reading | Цель чтения и стратегия → текст → gist → evidence/detail → решение о словаре → vocabulary in context → inference → summary или response |
-| Listening | Первое прослушивание → gist → detail → transcript → connected speech → повторное прослушивание → response |
-| Writing | Первая попытка → модель и useful language → план → текст → self-editing → AI diagnosis → самостоятельная правка → итоговая AI-проверка |
-| Speaking | Модель/input → useful language → план → запись → reformulation → более длинная запись → self-check |
-| Pronunciation | Listening context → noticing → объяснение → discrimination → controlled production → connected speech |
-| Error Clinic | Ошибки в контексте → исправление → объяснение → contrast → новые примеры → позднее повторение |
-| Review | Retrieval → mixed practice → connected input → продуктивное задание → ссылки на повторение |
-| Checkpoint | Независимые задания → ответы и критерии → готовые направления remediation |
-| Project | Цель и продукт → материал → этапы → итоговая работа → критерии |
-| Integrated | Содержательная задача, объединяющая два или несколько навыков |
+| Тип           | Подходящая последовательность                                                                                                           |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Orientation   | Цель → демонстрация способа работы → guided attempt → самостоятельная попытка → вывод                                                   |
+| Grammar       | Контекст → noticing → объяснение → примеры → focused practice → contrast → mixed practice → применение                                  |
+| Vocabulary    | Контекст → критерии отбора → значение и полная модель → collocations → примеры → recognition → recall → ситуационный выбор → применение |
+| Reading       | Цель чтения и стратегия → текст → gist → evidence/detail → решение о словаре → vocabulary in context → inference → summary или response |
+| Listening     | Первое прослушивание → gist → detail → transcript → connected speech → повторное прослушивание → response                               |
+| Writing       | Первая попытка → модель и useful language → план → текст → self-editing → AI diagnosis → самостоятельная правка → итоговая AI-проверка  |
+| Speaking      | Модель/input → useful language → план → запись → reformulation → более длинная запись → self-check                                      |
+| Pronunciation | Listening context → noticing → объяснение → discrimination → controlled production → connected speech                                   |
+| Error Clinic  | Ошибки в контексте → исправление → объяснение → contrast → новые примеры → позднее повторение                                           |
+| Review        | Retrieval → mixed practice → connected input → продуктивное задание → ссылки на повторение                                              |
+| Checkpoint    | Независимые задания → ответы и критерии → готовые направления remediation                                                               |
+| Project       | Цель и продукт → материал → этапы → итоговая работа → критерии                                                                          |
+| Integrated    | Содержательная задача, объединяющая два или несколько навыков                                                                           |
 
 Reading-текст должен иметь самостоятельную ценность. Решение открыть словарь зависит от цели чтения, а не от самого факта незнакомого слова. В Vocabulary активная единица сохраняется вместе со значением, моделью и примером; курс не требует активно учить каждое встреченное слово. Transcript открывается после первых прослушиваний. Для свободного Writing нужны checklist, model response, commentary и готовый двухэтапный запрос для AI: сначала диагностика без переписывания, затем проверка самостоятельной правки. Speaking внутри курса проверяется по записи, модели и наблюдаемым критериям.
+
+Независимо от типа урока крупные разделы оформляются через `##`, задания — через `###`, а встроенные тексты, диалоги, примеры, модели и аудио — через `####` с конкретным названием материала.
 
 [Шаблоны](README.md)

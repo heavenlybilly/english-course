@@ -1,35 +1,45 @@
 # Lesson 003 — Additional Practice
 
-[Lesson](01-lesson.md) · [Answers](03-answers.md)
+[Main lesson](01-lesson.md) · [Answers](03-answers.md)
 
-**Additional practice.**
+## Fix the patterns
 
-## A. Fix the pattern
+### Task 8. Correct and translate
 
-**P1A-1.** Correct: “I pay attention on the examples.”
-**P1A-2.** Correct: “I keep track for my mistakes.”
-**P1A-3.** Correct: “Please write down it.”
-**P1A-4.** Correct: “We tried out it.”
-**P1A-5.** Translate: Я нахожу время для чтения.
-**P1A-6.** Translate: Я сделал ошибку, но не сдался.
-**P1A-7.** Translate: Посмотри это слово в словаре.
-**P1A-8.** Translate: Запиши эту фразу.
+1. Correct: `I pay attention on the examples.`
+2. Correct: `I keep track for my mistakes.`
+3. Correct: `Please write down it.`
+4. Correct: `We tried out it.`
+5. Translate: «Я нахожу время для чтения».
+6. Translate: «Я сделал ошибку, но не сдался».
+7. Translate: «Посмотри это слово в словаре».
+8. Translate: «Запиши эту фразу».
 
-## B. Delayed recall
+## Delayed recall
 
-Выполни после L007 без этого урока и словаря.
+Complete this task after Lesson 007 without reopening the main lesson or using a dictionary.
 
-**P2A-1.** Find time in your day for something.
-**P2A-2.** Notice something carefully.
-**P2A-3.** Find information in a dictionary.
-**P2A-4.** Record something in writing.
-**P2A-5.** Test something to see whether it works.
-**P2A-6.** Follow and record progress.
-**P2A-7.** Do something incorrectly.
-**P2A-8.** Stop trying.
+### Task 9. Restore the expressions later
 
-## C. Production
+Write the expression that matches each meaning.
 
-**P3A-1.** Write four sentences using the four units you did not use in 5A-1. Check that each describes a real or plausible situation.
+1. Find time in your day for something.
+2. Notice something carefully.
+3. Find information in a dictionary.
+4. Record something in writing.
+5. Test something to see whether it works.
+6. Follow and record changing information.
+7. Do something incorrectly.
+8. Stop trying.
 
-**P3A-2.** CHALLENGE: Write a 60–80 word message to a friend who is frustrated with learning a new skill. Use three units naturally; do not force all eight into the message.
+## Independent use
+
+### Task 10. Use the remaining expressions
+
+Write four sentences using the four expressions you did not use in Task 6. Check that each sentence describes a real or plausible situation.
+
+## Challenge
+
+### Task 11. Encourage a friend
+
+Write a 60–80 word message to a friend who is frustrated with learning a new skill. Use three expressions naturally; do not force all eight into the message.
