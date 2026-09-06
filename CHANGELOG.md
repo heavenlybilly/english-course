@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Приведён главный `README.md` к стилю пособия для ученика: англоязычные названия заменены русскими там, где это возможно, необходимые английские термины выделены двойными кавычками, а формулировки об аудировании и порядке прохождения сделаны понятнее.
+
+- Revised all five learner guides for accessibility, natural Russian and consistent learner-facing terminology. Russian explanations now come first, necessary English terms appear in double quotes, technical editorial language has been reduced, the listening guidance reflects external authentic sources, and the remaining nonstandard blank has been corrected.
+
 - Expanded the root README into a learner-facing course entry point covering the intended learner, starting sequence, lesson files, learning cycle, course principles, directory structure and the purpose of the main documents, without exposing production-status details.
 
 - Renamed the learner-guide directory from `00-guide/` to `guide/` and updated project navigation and canonical structure references.
