@@ -9,7 +9,7 @@ This file is a concise handoff for a new work session. The canonical rules and l
 - `COURSE-DESIGN-SPEC.md` is canonical at version 2.0.
 - `COURSE-MAP.md` is canonical at version 3.0 and contains 486 lessons across Stages 0–14.
 - The ending of the map, Lessons 451–486, has been restored from the learner's original text.
-- The learner guides in `00-guide/` are numbered in their intended reading order.
+- The learner guides in `guide/` are numbered in their intended reading order.
 - The lesson templates use the current learner-facing hierarchy and numbered file convention.
 - General American English is the default course variety; concise British-English notes are included only when useful.
 - Fill-in-the-blank prompts use exactly five underscores inside inline code: `_____`.

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Expanded the root README into a learner-facing course entry point covering the intended learner, starting sequence, lesson files, learning cycle, course principles, directory structure and the purpose of the main documents, without exposing production-status details.
+
+- Renamed the learner-guide directory from `00-guide/` to `guide/` and updated project navigation and canonical structure references.
+
 - Corrected two Stage 0 listening checks: one unsupported False answer now uses Not stated, and one ambiguous Lesson 008 statement now tests an explicitly audible event. Completed the sequential navigation by linking Lesson 007 back to Lesson 006.
 
 - Completed Stage 0 with Lesson 008, Your Starting Point. The lesson combines a new reading text, an authentic VOA listening assignment, vocabulary retrieval, dictionary and pronunciation checks, short writing and optional recorded speaking; its nineteen tasks lead to evidence-based review routes without a single diagnostic score.

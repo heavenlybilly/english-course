@@ -961,7 +961,7 @@ english/
 ├── COURSE-MAP.md
 ├── COURSE-DESIGN-SPEC.md
 ├── CHANGELOG.md
-├── 00-guide/
+├── guide/
 ├── 00-stage-learning-to-learn/
 ├── 01-stage-sentence-foundations/
 ├── ...
